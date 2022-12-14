@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning:
 
   - AWS Big Data Services 
-  - Kurbentes Services
+  - Kubernetes Services
 
 - 💞️ I’m looking to collaborate on:
   - Any Open Source tools build in Python 
