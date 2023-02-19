@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning:
 
   - AWS Big Data Services
+  - AWS IOT Services
 
 - 💞️ I’m looking to collaborate on:
   - Any Open Source tools build in Python 
