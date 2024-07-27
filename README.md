@@ -6,7 +6,7 @@
 - 👀 I’m interested in:
   - Making Impactful Stuff. That's it!!!
 - 📫 My Current Day Job is:
-  - Data Engineer.
+  - Gen AI Engineer.
 - 🌱 My Current Active Open-Source Projects Are:
   - LangChain. Going with the Hype!!!
 - 💞️ I’m looking to collaborate on:
