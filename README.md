@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Langchain**
 
-- 🌱 I’m currently learning **PipeCat**
+- 🌱 I’m currently learning **Livekit**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects in GenAI**
 
