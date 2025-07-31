@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm keenborder786</h1>
-<h3 align="center">A GenAI Engineer</h3>
+<h3 align="center">A Problem Solver :/</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keenborder786&label=Profile%20views&color=0e75b6&style=flat" alt="keenborder786" /> </p>
 
