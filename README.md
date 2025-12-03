@@ -19,9 +19,10 @@
 
 ## 🚀 About Me
 
-I'm a **Generative AI Specialist** and **Open Source Contributor** with a passion for building intelligent systems at scale. Currently working as an active contributor to **LangChain**, the leading framework for building context-aware reasoning applications.
+I'm a **Generative AI Specialist** and **Open Source Contributor** with a passion for building intelligent systems at scale. Currently working as **Founding Engineer at [CAIRE](https://www.meetcaire.com/)** and as an active contributor to **LangChain**, the leading framework for building context-aware reasoning applications.
 
-- 🔭 **Currently Working On:** [LangChain](https://github.com/langchain-ai/langchain) - Building the future of AI applications
+- 🔭 **Currently Working On:** Founding Engineer at [CAIRE](https://www.meetcaire.com/) - Building AI-powered customer support
+- 🦜 **Open Source:** Active contributor to [LangChain](https://github.com/langchain-ai/langchain) ecosystem
 - 🌱 **Learning:** [LiveKit](https://livekit.io/) - Real-time voice AI agents
 - 👯 **Looking to Collaborate:** Open Source Projects in GenAI
 - 💬 **Ask Me About:** LangChain, LangGraph, LLMs, RAG, AI Agents, Voice AI
@@ -79,7 +80,7 @@ I've been fortunate to work with innovative startups building cutting-edge AI so
 |---------|------|-------------|------------------|
 | **[BiglySales](https://biglysales.com/)** | <img src="https://biglysales.com/wp-content/uploads/2025/04/logo-fullcolor-vertical2.webp" height="40"/> | TCPA-compliant high volume outbound AI calling platform for call centers, BPO, and contact centers. Handles inbound/outbound calls 24/7/365. | Built AI voice agents, multi-channel integrations (Voice + SMS), analytics pipelines |
 | **[Graph8](https://www.graph8.com/)** | <img src="https://graph8.com/assets/images/Logo-Alpha-1.svg" height="40"/> | AI Front Desk & Sales Platform - answers calls, replies to emails, engages on chat/social, and grows customer base automatically. Uses LangChain, LiveKit & NVIDIA CUDA. | Developed Voice AI agents, Campaign AI, Memory AI for context-aware conversations |
-| **[MeetCAIRE](https://www.meetcaire.com/)** | <img src="https://www.meetcaire.com/assets/caire-logo-dark-BbE0PtR5.png" height="40"/> | AI-powered customer support platform with WhatsApp integration, voice agents, and e-commerce support automation. | Founding Engineer - Building AI agents, voice support, landing page builder |
+| **[MeetCAIRE](https://www.meetcaire.com/)** | <img src="https://www.meetcaire.com/assets/caire-logo-dark-BbE0PtR5.png" height="40"/> | AI-powered customer support platform with WhatsApp integration, voice agents, and e-commerce support automation. | **Founding Engineer** - Building AI agents, voice support, landing page builder |
 
 ---
 
@@ -102,75 +103,6 @@ I'm deeply involved in the LangChain ecosystem, contributing to multiple officia
 
 ---
 
-## 🛠️ Featured Projects
-
-### 🤖 GenAI & LLM Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [free_llms](https://github.com/keenborder786/free_llms) | Use LLMs for Free! | Python ⭐ |
-| [INarrator](https://github.com/keenborder786/INarrator) | Summarize and narrate emails through LLMs | Python |
-| [Upwork_Slackbot](https://github.com/keenborder786/Upwork_Slackbot) | AI-powered Slack automation | Python |
-
-### 🎙️ Voice AI & Real-time Systems
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [agents (LiveKit)](https://github.com/livekit/agents) | Framework for building realtime voice AI agents | Python |
-| [pipecat](https://github.com/pipecat-ai/pipecat) | Voice and multimodal conversational AI | Python |
-| [langgraph-redis](https://github.com/redis-developer/langgraph-redis) | Redis checkpointer for LangGraph memory | Python |
-
-### 📊 Data Engineering & Big Data
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [RealTime_Spark_Socket_Streaming](https://github.com/keenborder786/RealTime_Spark_Socket_Streaming) | Real-time Spark streaming pipeline | Python, Spark |
-| [Realtime-Change-Data-Capture-Streaming](https://github.com/keenborder786/Realtime-Change-Data-Capture-Streaming) | CDC streaming with PostgreSQL | PLpgSQL |
-| [Azure_Spark_Cluster_Pipeline](https://github.com/keenborder786/Azure_Spark_Cluster_Pipeline) | Azure Spark cluster data pipeline | Python, Azure |
-| [Reddit_Data_Pipeline](https://github.com/keenborder786/Reddit_Data_Pipeline) | ETL pipeline for Reddit data | Docker |
-| [DBT_MySQL_Pipeline](https://github.com/keenborder786/DBT_MySQL_Pipeline) | DBT transformations for MySQL | DBT |
-| [Hadoop-Spark-Docker-Environment](https://github.com/keenborder786/Hadoop-Spark-Docker-Environment) | Containerized Hadoop + Spark setup | Docker ⭐ |
-
----
-
-## 💻 Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### GenAI & LLMs
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/🔗_LangGraph-FF6B6B?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
-![LiveKit](https://img.shields.io/badge/LiveKit-FF5A5F?style=for-the-badge)
-
-### Data & Cloud
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### Databases & Vector Stores
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C853?style=for-the-badge&logo=weaviate&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -187,9 +119,9 @@ I'm deeply involved in the LangChain ecosystem, contributing to multiple officia
 
 ## 📈 Recent Activity
 
+- 🚀 **Founding Engineer at [CAIRE](https://www.meetcaire.com/)** - Building AI customer support platform
 - 🔄 Actively contributing to **LangChain** and **LangGraph**
 - 🎙️ Building voice AI agents with **LiveKit**
-- 🚀 Working on AI customer support at **[MeetCAIRE](https://www.meetcaire.com/)**
 - 📚 Sharing knowledge about GenAI on LinkedIn (4K+ followers)
 
 ---
