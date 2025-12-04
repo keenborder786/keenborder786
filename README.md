@@ -105,10 +105,6 @@ I'm deeply involved in the LangChain ecosystem, contributing to multiple officia
 
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keenborder786&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-
 - 🦈 **Pull Shark x4** - Merged multiple pull requests
 - 💡 **YOLO** - Pushed without hesitation
 - 👥 **Pair Extraordinaire x3** - Collaborative coding excellence
