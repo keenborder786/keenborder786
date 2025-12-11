@@ -62,7 +62,7 @@ I've been fortunate to work with innovative startups building cutting-edge AI so
 </td>
 <td align="center" width="33%">
 <a href="https://www.meetcaire.com/">
-<img src="https://www.meetcaire.com/assets/caire-logo-dark-BbE0PtR5.png" alt="MeetCAIRE" height="80"/>
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/d9/f0/61d9f047-9388-669e-51bc-cbb4b76230ae/Placeholder.mill/200x200bb-75.webp" alt="MeetCAIRE" height="80"/>
 </a>
 <br/><br/>
 <b><a href="https://www.meetcaire.com/">MeetCAIRE</a></b>
