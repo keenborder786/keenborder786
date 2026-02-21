@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mohtashim Khan</h1>
-<h3 align="center">🦜🔗 Official LangChain Expert | Applied AI Specialist | Startup Builder</h3>
+<h3 align="center">🦜🔗 Official LangChain Expert | Applied AI Engineer | Startup Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-mohtashim-khan/">
@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm an **Applied AI Specialist** and **Open Source Contributor** with a passion for building intelligent systems at scale. Currently working as **Founding Engineer at [CAIRE](https://www.meetcaire.com/)** and as an active contributor to **LangChain**, the leading framework for building context-aware reasoning applications.
+I'm an **Applied AI Engineer** and **Open Source Contributor** with a passion for building intelligent systems at scale. Currently working as **Founding Engineer at [CAIRE](https://www.meetcaire.com/)** and as an active contributor to **LangChain**, the leading framework for building context-aware reasoning applications.
 
 - 🔭 **Currently Working On:** Founding Engineer at [CAIRE](https://www.meetcaire.com/) - Building AI-powered customer support
 - 🦜 **Open Source:** Active contributor to [LangChain](https://github.com/langchain-ai/langchain) ecosystem
