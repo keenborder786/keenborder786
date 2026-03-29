@@ -27,7 +27,7 @@ I'm an **Applied AI Engineer** and **Open Source Contributor** with a passion fo
 - 👯 **Looking to Collaborate:** Open Source Projects in GenAI
 - 💬 **Ask Me About:** LangChain, LangGraph, LLMs, RAG, AI Agents, Voice AI
 - 📍 **Based in:** Lahore, Pakistan
-- 👥 **4K+ LinkedIn Followers** | **59 GitHub Followers**
+- 👥 **4K+ LinkedIn Followers** | **67 GitHub Followers**
 - 🎓 **Education:** Lahore University of Management Sciences (LUMS)
 
 ---
@@ -79,7 +79,7 @@ I've been fortunate to work with innovative startups building cutting-edge AI so
 | Company | Logo | Description | My Contributions |
 |---------|------|-------------|------------------|
 | **[BiglySales](https://biglysales.com/)** | <img src="https://biglysales.com/wp-content/uploads/2025/04/logo-fullcolor-vertical2.webp" height="40"/> | TCPA-compliant high volume outbound AI calling platform for call centers, BPO, and contact centers. Handles inbound/outbound calls 24/7/365. | Built AI voice agents, multi-channel integrations (Voice + SMS), analytics pipelines |
-| **[Graph8](https://www.graph8.com/)** | <img src="https://graph8.com/assets/images/Logo-Alpha-1.svg" height="40"/> | AI Front Desk & Sales Platform - answers calls, replies to emails, engages on chat/social, and grows customer base automatically. Uses LangChain, LiveKit & NVIDIA CUDA. | Developed Voice AI agents, Campaign AI, Memory AI for context-aware conversations |
+| **[Graph8](https://www.graph8.com/)** | <img src="https://graph8.com/img/logo.svg" height="40"/> | AI Front Desk & Sales Platform - answers calls, replies to emails, engages on chat/social, and grows customer base automatically. Uses LangChain, LiveKit & NVIDIA CUDA. | Developed Voice AI agents, Campaign AI, Memory AI for context-aware conversations |
 | **[MeetCAIRE](https://www.meetcaire.com/)** | <img src="https://www.meetcaire.com/assets/caire-logo-dark-BbE0PtR5.png" height="40"/> | AI-powered customer support platform with WhatsApp integration, voice agents, and e-commerce support automation. | **Founding Engineer** - Building AI agents, voice support, landing page builder |
 
 ---
