@@ -51,7 +51,7 @@ I've been fortunate to work with innovative startups building cutting-edge AI so
 </td>
 <td align="center" width="33%">
 <a href="https://www.graph8.com/">
-<img src="https://graph8.com/assets/images/Logo-Alpha-1.svg" alt="Graph8" height="80"/>
+<img src="https://graph8.com/img/logo.svg" alt="Graph8" height="80"/>
 </a>
 <br/><br/>
 <b><a href="https://www.graph8.com/">Graph8</a></b>
