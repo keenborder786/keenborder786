@@ -21,7 +21,7 @@
 
 I'm an **Applied AI Engineer** and **Open Source Contributor** with a passion for building intelligent systems at scale. Currently working as **Founding Engineer at [CAIRE](https://www.meetcaire.com/)** and as an active contributor to **LangChain**, the leading framework for building context-aware reasoning applications.
 
-- 🔭 **Currently Working On:** Founding Engineer at [CAIRE](https://www.meetcaire.com/) - Building AI-powered customer support
+- 🔭 **Currently Working On:** Founding Engineer at [CAIRE](https://www.meetcaire.com/) - Building AI-powered live performance management for e-commerce
 - 🦜 **Open Source:** Active contributor to [LangChain](https://github.com/langchain-ai/langchain) ecosystem
 - 🌱 **Learning:** [LiveKit](https://livekit.io/) - Real-time voice AI agents
 - 👯 **Looking to Collaborate:** Open Source Projects in GenAI
@@ -62,14 +62,14 @@ I've been fortunate to work with innovative startups building cutting-edge AI so
 </td>
 <td align="center" width="33%">
 <a href="https://www.meetcaire.com/">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/d9/f0/61d9f047-9388-669e-51bc-cbb4b76230ae/Placeholder.mill/200x200bb-75.webp" alt="MeetCAIRE" height="80"/>
+<img src="https://www.meetcaire.com/assets/caire-logo-white-Cbwp0kHe.png" alt="MeetCAIRE" height="80"/>
 </a>
 <br/><br/>
 <b><a href="https://www.meetcaire.com/">MeetCAIRE</a></b>
 <br/>
-<sub>AI Customer Support Platform</sub>
+<sub>Live Performance Manager for E-commerce</sub>
 <br/>
-<sub>💬 WhatsApp | 🎙️ Voice AI | 🛒 E-commerce</sub>
+<sub>📊 Host Analytics | 🛒 TikTok & Shopee | 🤖 AI Avatars</sub>
 </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ I've been fortunate to work with innovative startups building cutting-edge AI so
 |---------|------|-------------|------------------|
 | **[BiglySales](https://biglysales.com/)** | <img src="https://biglysales.com/wp-content/uploads/2025/04/logo-fullcolor-vertical2.webp" height="40"/> | TCPA-compliant high volume outbound AI calling platform for call centers, BPO, and contact centers. Handles inbound/outbound calls 24/7/365. | Built AI voice agents, multi-channel integrations (Voice + SMS), analytics pipelines |
 | **[Graph8](https://www.graph8.com/)** | <img src="https://graph8.com/img/logo.svg" height="40"/> | AI Front Desk & Sales Platform - answers calls, replies to emails, engages on chat/social, and grows customer base automatically. Uses LangChain, LiveKit & NVIDIA CUDA. | Developed Voice AI agents, Campaign AI, Memory AI for context-aware conversations |
-| **[MeetCAIRE](https://www.meetcaire.com/)** | <img src="https://www.meetcaire.com/assets/caire-logo-dark-BbE0PtR5.png" height="40"/> | AI-powered customer support platform with WhatsApp integration, voice agents, and e-commerce support automation. | **Founding Engineer** - Building AI agents, voice support, landing page builder |
+| **[MeetCAIRE](https://www.meetcaire.com/)** | <img src="https://www.meetcaire.com/assets/caire-logo-white-Cbwp0kHe.png" height="40"/> | Live Performance Manager for e-commerce livestreaming — tracks host performance, monitors sessions in real time, manages schedules, automates bonuses, and deploys AI avatars & AI chat across TikTok, Shopee, WhatsApp, Instagram, and Tokopedia. | **Founding Engineer** - Building AI-powered host analytics, real-time session monitoring, AI avatar & chat modules, social listening, and automated reporting |
 
 ---
 
@@ -115,7 +115,7 @@ I'm deeply involved in the LangChain ecosystem, contributing to multiple officia
 
 ## 📈 Recent Activity
 
-- 🚀 **Founding Engineer at [CAIRE](https://www.meetcaire.com/)** - Building AI customer support platform
+- 🚀 **Founding Engineer at [CAIRE](https://www.meetcaire.com/)** - Building a Live Performance Manager for e-commerce livestreaming (TikTok, Shopee, Tokopedia) — host analytics, real-time session monitoring, AI avatars, AI chat & social listening
 - 🔄 Actively contributing to **LangChain** and **LangGraph**
 - 🎙️ Building voice AI agents with **LiveKit**
 - 📚 Sharing knowledge about GenAI on LinkedIn (4K+ followers)
