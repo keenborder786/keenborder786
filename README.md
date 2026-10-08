@@ -1,6 +1,12 @@
+
+<img width="100" height="100" alt="5ff0fa39-23ca-415b-a5ba-c2184fc951f2" src="https://github.com/user-attachments/assets/f1c57e8b-ab3f-403f-b992-a530b06091a7" />
+
+
 # Hi, I'm Mohammad Mohtashim Khan
 
+
 I'm an applied AI engineer and a LUMS graduate. These days I'm the founding engineer at [CAIRE](https://www.meetcaire.com/). I'm also a LangChain Expert: LangChain lists me as a Forum Expert on its [community page](https://www.langchain.com/community), and you can find me on the [LangChain forum](https://forum.langchain.com/u/keenborder786).
+
 
 
 <img width="1388" height="394" alt="Screenshot 2026-10-08 at 3 27 30 AM" src="https://github.com/user-attachments/assets/b9b78cb7-ba1c-40a0-a551-e0d9c26ddda1" />
