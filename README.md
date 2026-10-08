@@ -15,7 +15,7 @@ I'm building the host analytics, real-time session monitoring, avatar and chat m
 
 I've been part of LangChain's open-source community since October 2023. I was a maintainer of [langchain-community](https://github.com/langchain-ai/langchain-community) until it was archived in June 2026, and I've contributed to:
 
-* [langchain](https://github.com/langchain-ai/langchain) and [langgraph](https://github.com/langchain-ai/langgraph)
+* [langchain](https://github.com/langchain-ai/langchain) (Ranked among Top-20 Contributors till date) and [langgraph](https://github.com/langchain-ai/langgraph)
 * [langmem](https://github.com/langchain-ai/langmem)
 * the [Redis](https://github.com/langchain-ai/langchain-redis), [Google](https://github.com/langchain-ai/langchain-google), [Cohere](https://github.com/langchain-ai/langchain-cohere), [Milvus](https://github.com/langchain-ai/langchain-milvus) and [Tavily](https://github.com/tavily-ai/langchain-tavily) integrations
 * the [LangChain docs](https://github.com/langchain-ai/docs)
