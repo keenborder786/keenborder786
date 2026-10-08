@@ -11,8 +11,6 @@ CAIRE is an AI livestream manager for e-commerce. It tracks how hosts perform, m
 
 I'm building the host analytics, real-time session monitoring, avatar and chat modules, social listening and automated reporting.
 
-On the side, I'm learning [LiveKit](https://livekit.com/) and building real-time voice agents with it.
-
 ## Open source
 
 I've been part of LangChain's open-source community since October 2023. I was a maintainer of [langchain-community](https://github.com/langchain-ai/langchain-community) until it was archived in June 2026, and I've contributed to:
@@ -24,9 +22,10 @@ I've been part of LangChain's open-source community since October 2023. I was a 
 
 ## Earlier
 
-* [Ekai](https://ekai.ai/), a platform that profiles a company's data warehouse, asks its domain experts what the data means, and generates governed semantic models and dbt pipelines. It checks the results against facts those experts supply before anything is published.
 * [Graph8](https://graph8.com/), an AI sales platform: I built voice AI agents, Campaign AI, and Memory AI for context-aware conversations.
 * [BiglySales](https://biglysales.com/), an AI outbound calling platform for call centers: I built voice agents, voice and SMS integrations, and analytics pipelines.
+* [Ekai](https://ekai.ai/), a platform that profiles a company's data warehouse, asks its domain experts what the data means, and generates governed semantic models and dbt pipelines. It checks the results against facts those experts supply before anything is published.
+
 
 ## Say hi
 
