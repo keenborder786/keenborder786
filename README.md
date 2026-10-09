@@ -13,9 +13,7 @@ I'm an applied AI engineer and a LUMS graduate. These days I'm the founding engi
 
 ## What I'm working on
 
-CAIRE is an AI livestream manager for e-commerce. It tracks how hosts perform, monitors sessions as they happen, manages schedules and automates bonuses, and it runs AI avatars and AI chat on TikTok, Shopee, WhatsApp, Instagram and Tokopedia.
-
-I'm building the host analytics, real-time session monitoring, avatar and chat modules, social listening and automated reporting.
+CAIRE is an AI livestream manager for e-commerce. It tracks how hosts perform, monitors sessions as they happen, manages schedules and automates bonuses.
 
 ## Open source
 
